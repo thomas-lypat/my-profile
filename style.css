@@ -1,0 +1,69 @@
+body {
+	background-color: #E9F1F7;
+	font-size: 18px;
+	
+}
+
+h1 {
+	color: #2589BD;
+	font-size: 40px;
+	font-weight: 500;
+	font-family: 'Lora', serif;
+		
+}
+
+h2 {
+	font-size: 28px; 
+	font-weight: lighter;
+	font-family: "Helvetica", serif;
+
+}
+
+h3 {
+	font-family: "Cabin", serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: #016FB9;
+	font-weight: 
+	}
+a:hover {
+	color: navy;
+	}
+
+	img {
+		border-radius: 50%;
+
+	}
+
+.thomas {
+    text-align: center; 
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.music {
+	text-align: center; 
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.traveling {
+	text-align: center; 
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.patate {
+	text-align: center; 
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.follow {
+	text-align: center; 
+    margin-right: 10%;
+    margin-left: 10%;
+}
